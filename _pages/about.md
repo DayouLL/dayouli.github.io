@@ -1,12 +1,14 @@
 ---
 permalink: /
 title: "Dayou Li - Shandong University"
-author_profile: false
+author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+About Me
+=======
 I am a third-year master's student at Visual, Sensing and Intelligent System Laboratory (VSISLab), School of Control Science and Engineering, Shandong University (SDU).
 
 A data-driven personal website
