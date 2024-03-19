@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dayou Li Shandong University"
+title: "Dayou Li/Shandong University"
 author_profile: true
 redirect_from: 
   - /about/
