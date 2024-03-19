@@ -1,8 +1,6 @@
 ---
 title: "Multi-class 4-DoF Carton Box Detection for Heterogeneous Robotic Container Unloading"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-date: 17-20 July 2023
 venue: '2023 IEEE International Conference on Real-time Computing and Robotics (RCAR)'
 paperurl: '[https://ieeexplore.ieee.org/document/10249938]'
 author: 'Shuo Yang; Dayou Li; Chenkun Zhao; Pengkun Wei; Yibin Li; Wei Zhang'
