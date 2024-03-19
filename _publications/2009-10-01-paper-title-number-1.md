@@ -1,12 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "Multi-class 4-DoF Carton Box Detection for Heterogeneous Robotic Container Unloading"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 17-20 July 2023
+venue: '2023 IEEE International Conference on Real-time Computing and Robotics (RCAR)'
+paperurl: '[https://ieeexplore.ieee.org/document/10249938]'
+author: 'Shuo Yang; Dayou Li; Chenkun Zhao; Pengkun Wei; Yibin Li; Wei Zhang'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Container unloading is one of the most challenging tasks in depalletizing applications and has not been well addressed. Because it is non-trivial to accurately detect irregularly packed boxes and efficiently unload boxes in confined spaces, in this paper, we investigate both the detection step and the motion planning step in the container unloading task. First, we introduce the multi-class 4-DoF box detection into container unloading tasks and build a detection method based on YOLOv5. To generate the unloading sequence of boxes, a heuristic rule is proposed by using human prior knowledge. And to match the categorical attributes of different types of boxes and task setups, we design suitable motion trajectories. Based on the proposed methods, a complete robotic unloading system is developed. We evaluate our system via real-world experiments and the results indicate the efficiency and reliability of our robotic system. The video demonstration can be found at: https://youtu.be/nYvCbNoYi5Y.
